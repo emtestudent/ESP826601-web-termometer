@@ -1,5 +1,5 @@
 # ESP826601-web-termometer
-Create website with temperature reading fom DHT22
+Create website with temperature reading fom DHT22</b>
 Next steps for v0.2 - adding open/close sensor for windows and sends data every time o/c sensor change it state or every 30 minutes.
 Next steps for v0.3 - adding motion sensor and sending data to webserver every time o/c sensor change it state or motion sensor change it state or every 30 minutes.
 Next steps for v0.4 - changing ESP826601 to self stanfing ESP8266 ESP12 V3 LUA.
